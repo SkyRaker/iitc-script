@@ -3,9 +3,6 @@
 // @name           IITC plugin: 20-meters-range for Wayfarer
 // @category       Layer
 // @version        0.1.2
-// @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      https://static.iitc.me/build/release/plugins/zaprange.meta.js
-// @downloadURL    https://static.iitc.me/build/release/plugins/zaprange.user.js
 // @description    Shows the 20-meters-range of Portals.
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
